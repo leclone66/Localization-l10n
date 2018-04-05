@@ -3982,7 +3982,7 @@ msgstr "Mise en page"
 #: includes/metaboxes/tabs/tab_sliders.php:137
 #: includes/metaboxes/tabs/tab_sliders.php:155
 msgid "Default"
-msgstr "Par défaut"
+msgstr "Défaut"
 
 # @ Avada
 #: includes/metaboxes/tabs/tab_background.php:13
