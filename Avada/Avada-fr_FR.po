@@ -15012,7 +15012,7 @@ msgstr "Mettre à jour les totaux"
 # @ Avada
 #: templates/wc-catalog-ordering.php:44 templates/wc-catalog-ordering.php:82
 msgid "Default Order"
-msgstr "Commande par défaut"
+msgstr "par défaut"
 
 # @ Avada
 #: templates/wc-catalog-ordering.php:48 templates/wc-catalog-ordering.php:94
